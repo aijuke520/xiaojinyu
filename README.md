@@ -34,9 +34,9 @@
   
 </svg><script>
 </script>
-<audio src="/music/huanying.mp3" autoplay false></audio>
+
 <meta http-equiv="Content-Language" content="zh-CN">
 <meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=gb2312">
-<meta http-equiv="refresh" content="6;url=/">
+
 
 </body></html>
