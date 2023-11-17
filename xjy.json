@@ -19,7 +19,7 @@
 "data": [
 {
       "name": "小金鱼视频",
-      "pic": "https://gitlab.com/aijuke520/kankanys/-/raw/main/tu/lb003.png",
+      "pic": "./tu/lb003.png",
       "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=54FfbrN_iKI3S25NVYMJCCR1aFtbERS7&authKey=RcW0KbZfGsKpYHmG1yoQVHiPtqgofTuqi%2BoWgZYXkxecc8DaKmIKrBFuZ%2BXL3O2c&noverify=0&group_code=1082599899",
       "type": "web",     
       "desc": "资源最全的影视APP",
@@ -27,7 +27,7 @@
     },
 {
       "name": "全网最全的影视APP",
-      "pic": "https://gitlab.com/aijuke520/kankanys/-/raw/main/tu/lb003.png",
+      "pic": "./tu/lb003.png",
       "url": "",
       "type": "search",     
        "desc": "资源最全的影视APP",
