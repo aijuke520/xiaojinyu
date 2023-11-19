@@ -43,7 +43,8 @@
 
 {"key":"xjy_pc_影视聚合","name":"📢首页┃豆瓣推荐","type":3,"api":"./api/drpy2.min.js","ext":"./js/douban.js"},
 {"key":"csp_KungFu404","name":"☁阿里设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./jar/alibaba.jar"},
-{"key":"csp_WoGG4K","name":"🚀玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"jar":"./jar/csp_WoGG.jar","ext":"./token.txt+4k|auto|fhd$$$弹"},
+{"key":"csp_WoGG4K","name":"🚀玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"jar":"./jar/fty.jar","ext":"./token.txt+4k|auto|fhd$$$弹"},
+{"key":"csp_WoGG","name":"💂‍┃阿里┃玩偶","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"jar":"./jar/csp_WoGG.jar","ext": {"token":"./token.txt+4k|fhd|auto","filter":"./json/wogg.json"}},
 {"key":"wogg_T4","name":"💂‍┃玩偶┃哥哥","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"js_4KHDR","name":"👩‍⚕️┃玩偶┃姐姐","type":3,"api":"./api/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/4KHDR.js"},
 //{"key":"YGP","name":"🚀叨观荐影┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
